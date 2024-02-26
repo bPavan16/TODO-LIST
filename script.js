@@ -35,7 +35,7 @@ const reminder = () => {
       element.classList.toggle("uncheck");
     });
 
-    element.addEventListener('cl')
+
 
     element.addEventListener("dblclick", () => {
       element.remove();
